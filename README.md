@@ -10,7 +10,7 @@
 - `assets/`：页面运行所需资源文件
 
 ## 运行方式
-
+https://A1yusha.github.io/keji-anquan-ppt/在线预览或
 下载仓库后，双击 `index.html`,使用浏览器打开即可观看。  
 演示时可使用键盘方向键进行翻页。
 
