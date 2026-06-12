@@ -18,7 +18,7 @@ https://A1yusha.github.io/keji-anquan-ppt/
 
 ## 制作说明
 本项目为课程小组展示作业。
-
+致谢guizang-ppt-skill。
 本人主要负责网页 PPT 实现、页面排版、动效调试、素材整理与最终上传。
 小组成员共同参与资料讨论、展示配合与课程汇报。
 在项目实现过程中，使用了 Claude DeepSeek 等 AI 工具辅助完成代码生成、页面排版、动画效果与调试优化。
